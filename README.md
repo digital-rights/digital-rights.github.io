@@ -2,10 +2,14 @@
 
 Do human rights apply on the internet? We believe so! 
 
-## Learn about your rights
+## Under construction
 
+This project is just beginning, for now you can follow the origins of this project [here](https://github.com/alex-esc/digitalrights).
 
+## Get notified on future updates
 
-## Fight for your rights
+Use our [RSS feed](https://github.com/digital-rights/rss/releases.atom) to get updates, to get our RSS feed in your email follow [this instructions](https://www.quora.com/What-is-the-best-free-RSS-to-email-service).
 
-Make your voice be heard, speak up!
+## Contact Information
+
+> digital-rights-info@protonmail.com
