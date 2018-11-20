@@ -1,8 +1,8 @@
 # Digital Rights
 
-Do human rights apply on the internet? We beleve so! 
+Do human rights apply on the internet? We believe so! 
 
-## Learn abot your rights
+## Learn about your rights
 
 
 
