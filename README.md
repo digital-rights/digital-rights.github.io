@@ -14,7 +14,7 @@ Use our [RSS feed](https://github.com/digital-rights/rss/releases.atom) to get u
 
 ### Email
 
-> digital-rights-info@protonmail.com
+> [digital-rights-info@protonmail.com](mailto:digital-rights-info@protonmail.com)
 
 ### Social media
 
