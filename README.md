@@ -1,7 +1,4 @@
----
-layout: default
-title: Home 
----
+
 
 # Digital Rights
 
