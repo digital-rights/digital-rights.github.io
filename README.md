@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digital Rights 
+title: Home 
 ---
 
 # Digital Rights
