@@ -1,8 +1,18 @@
+# basic options
 title: Digital Rights
+email: your-email@domain.com
 description: Equal rights online and offline
 show_downloads: true
+twitter_username: _digitalrights
+github_username:  digital-rights
+facebook_usernameÑ digitalrightsonline
+
 other:
   name:URL 
 
 plugins:
   - jemoji
+
+# Build settings
+markdown: kramdown
+theme: minima
