@@ -1,6 +1,4 @@
----
-title: Home
----
+
 
 # Digital Rights
 
