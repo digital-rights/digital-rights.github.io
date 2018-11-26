@@ -1,3 +1,8 @@
+---
+layout: default
+title: Digital Rights 
+---
+
 # Digital Rights
 
 Do human rights apply on the internet? We believe so! 
