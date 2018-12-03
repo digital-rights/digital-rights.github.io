@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Digital Rights
+---
 
 # Digital Rights
 
