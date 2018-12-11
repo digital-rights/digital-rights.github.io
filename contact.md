@@ -1,5 +1,9 @@
 # Get in touch
 
+## Faster way to get in touch
+
+> [t.me/digitalrightsonline](https://t.me/digitalrightsonline)
+
 ## Email - [digital-rights-info@protonmail.com](mailto:digital-rights-info@protonmail.com)
 
 ## Social media
