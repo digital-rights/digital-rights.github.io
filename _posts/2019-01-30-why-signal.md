@@ -5,7 +5,7 @@ author: Anonymous
 ---
 
 
-# Why use signal over other messengers like WhatsApp?
+## Why use signal over other messengers like WhatsApp?
 
 [signal.org](https://signal.org)
 
@@ -42,7 +42,7 @@ Most other chat and emaiI services can access your messages, meaning actual peop
 
 Disadvantages: it doesn't yet have video calls. Messages are limited to 1000 characters each.
 
-# The privacy argument
+## The privacy argument
 
 we all naturally want and need privacy and security, otherwise why would we have doors, walls, passwords, keys.
 would one give those away?
@@ -75,7 +75,7 @@ Use pseudo-names and faІse information onІine, don't attacҺ your name to your
 
 Here are some links:
 
-## Resources to Learn about privacy: 
+### Resources to Learn about privacy: 
 
 ΤecҺІore go incognito-
 https://www.youtube.com/playlist?list=PL3KeV6Ui_4CayDGHw64OFXEPHgXLkrtJO
