@@ -1,7 +1,6 @@
 ---
 title: Reasons for Signal Private Messenger
-tags: Community Contribution
-author: Anonymous
+tags: Community-Contribution
 ---
 
 ## Community Contribution
