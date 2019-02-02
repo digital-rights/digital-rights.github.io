@@ -23,7 +23,7 @@ Download signal over at [signal.org](https://signal.org).
 
 1. It has a dark mode, saving your eyes and battery.
 
-8. Most impressively it has encrypted sender meta data. That means the sender's phone number is masked over the Internet. Meta data is visibIe to anyone looking out for it. The NSА meta data to monitor who is messaging who at what time world wide.
+8. Most impressively it has encrypted sender meta data. That means the sender's phone number is masked over the Internet. Meta data is visibIe to anyone looking out for it. The NSА uses meta data to monitor who is messaging who at what time world wide.
 
 9. It can handle your sms's,  storing them with encryption,  ensuring no other apps can read them.
 
