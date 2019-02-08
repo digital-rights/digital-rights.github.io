@@ -10,6 +10,26 @@ Our rules will soon change, in the close future we will also allow submitting yo
 
 [srdr]: https://www.reddit.com/r/digital_rights/
 
+
+
+```mermaid
+graph TD
+A[Do you want to submit your work?] -->|yes| B(How often?)
+B --> 1(Once or twice) 
+B --> 2(Regularly)
+
+1 --> 11
+2 --> 21
+11(Read our submission rules)
+21(Apply to become a member)
+
+click 11 "https://digital-rights.github.io/community/submit-your-work"
+click 21 "https://digital-rights.github.io/community/join"
+
+```
+
+
+
 ---
 
 ## Contact Information
