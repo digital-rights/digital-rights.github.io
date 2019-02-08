@@ -28,6 +28,7 @@ click 21 "https://digital-rights.github.io/community/join"
 
 ```
 
+> You can click on _Read our submission rules_ and _Apply to become a member_ for more information.
 
 
 ---
