@@ -14,7 +14,7 @@ Our mission is **big**, we want to reach as many people as possible with our wor
 	[ ] on redesign
 		[ ] add colors to all flairs
 		[ ] Fix placeholder links on the subreddit
-			[ ] most recent post
+			[x] most recent post
 			[ ] submit your own
 				[ ] On blog tab
 				[ ] On projects tab
