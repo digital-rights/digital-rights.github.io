@@ -1,4 +1,5 @@
 ---
+layout: article
 title: How Digital Technologies Reflect Who We Are.
 author: Alex
 mode: immersive
