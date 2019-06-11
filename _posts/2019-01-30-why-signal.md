@@ -9,15 +9,15 @@ author: Anonymous
 
 Download signal over at [signal.org](https://signal.org).
 
-1. firstly unlike whatsАрр, Signal is open source meaning anyone can inspect the code and verify it's security and that there are no back doors. 
+1. Firstly unlike whatsАрр, Signal is open source meaning anyone can inspect the code and verify it's security and that there are no back doors. 
 
 1. Unlike whatsapp, Signal is not owned by the data mining company facebooκ. 
 
-1. it uses stronger and more unique end to end encryption. End to end encryption means no one except you and the recipient can read any message (not even the company that owns the platform can read any messages),WhatsApp has this feature too but it's compromised by the fact that chats are automatically backed up on Google drive without encryption, this setting is on by default meaning Google has personal information on most WhatsApp users and sells/leverages it. On the other hand almost all other chat apps and email services can access your messages because they aren't protected with encryption, meaning actual people you don't know can  access, sell or leak your personal information.
+1. It uses stronger and more unique end to end encryption. End to end encryption means no one except you and the recipient can read any message (not even the company that owns the platform can read any messages),WhatsApp has this feature too but it's compromised by the fact that chats are automatically backed up on Google drive without encryption, this setting is on by default meaning Google has personal information on most WhatsApp users and sells/leverages it. On the other hand almost all other chat apps and email services can access your messages because they aren't protected with encryption, meaning actual people you don't know can  access, sell or leak your personal information.
 
-1. it has it's own notification system so the phone and apps can't read your messages in the notification tray.
+1. It has it's own notification system so the phone and apps can't read your messages in the notification tray.
 
-1. it prevents screenshots or unrestricted screen recording from a virus or the operating system itself. 
+1. It prevents screenshots or unrestricted screen recording from a virus or the operating system itself. 
 
 1. It has a disappearing message setting which wipes conversations after a set time from both phones (useful to keep chats clean or to simply erase personaI information if needed).
 
@@ -27,7 +27,7 @@ Download signal over at [signal.org](https://signal.org).
 
 9. It can handle your sms's,  storing them with encryption,  ensuring no other apps can read them.
 
-10. you can set a password for the app, meaning peopIe can't simply read your messages if they have physical access to your phone.
+10. You can set a password for the app, meaning peopIe can't simply read your messages if they have physical access to your phone.
 
 11. You can relay your calls through signaIs servers to avoid revealing your IP address(which reveaIs your location) if you don't already use a VPN. 
 
