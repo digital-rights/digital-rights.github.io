@@ -10,23 +10,23 @@ Our mission is **big**, we want to reach as many people as possible with our wor
 
 ```
 
-[ ] Personalize subreddit
-	[ ] on redesign
-		[ ] add colors to all flairs
-		[ ] Fix placeholder links on the subreddit
+[x] Personalize subreddit
+	[x] on redesign
+		[x] add colors to all flairs
+		[x] Fix placeholder links on the subreddit
 			[x] most recent post
-			[ ] submit your own
-				[ ] On blog tab
-				[ ] On projects tab
-			[ ] be a part of our team
-				[ ] On about us tab
-				[ ] On community tab
-	[ ] on old reddit
-		[ ] create flairs
-			[ ] post flairs
-			[ ] user flairs
-		[ ] redo sidebar, add links from redesign top bar
-		[ ] fill wiki
+			[x] submit your own
+				[x] On blog tab
+				[x] On projects tab
+			[x] be a part of our team
+				[x] On about us tab
+				[x] On community tab
+	[x] on old reddit
+		[x] create flairs
+			[x] post flairs
+			[x] user flairs
+		[x] redo sidebar, add links from redesign top bar
+		[x] fill wiki
 
 [ ] implement new light theme on website
 	[ ] test / adapt post-clone theme
