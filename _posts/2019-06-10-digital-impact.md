@@ -1,7 +1,6 @@
 ---
 layout: article
 title: How Digital Technologies Reflect Who We Are.
-author: Alex
 mode: immersive
 header:
   theme: dark
@@ -12,8 +11,22 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://i.imgur.com/bHkwHjy.jpg
-tags:
-	- Social impact
+---
+
+
+---
+layout: article
+title: We Advocate For Equal Rights Online And Offline
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: https://i.imgur.com/ch6uSes.jpg
 ---
 
 
