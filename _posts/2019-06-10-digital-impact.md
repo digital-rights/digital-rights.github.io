@@ -12,7 +12,7 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://i.imgur.com/bHkwHjy.jpg
 tags:
-	- Social impact
+	Social impact
 author: Alex
 ---
 
