@@ -13,6 +13,7 @@ article_header:
     src: https://i.imgur.com/bHkwHjy.jpg
 tags: [Social impact]
 author: Alex
+toc: false
 ---
 
 
