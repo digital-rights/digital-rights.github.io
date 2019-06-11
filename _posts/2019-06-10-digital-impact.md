@@ -11,7 +11,7 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://i.imgur.com/bHkwHjy.jpg
-tags: "Social impact"
+tags: [Social impact]
 author: Alex
 ---
 
@@ -20,7 +20,7 @@ author: Alex
 
 
 
-The predominant forms of media speaks about the culture and time frame they belong in. For example, think about radio:
+The predominant forms of media speaks about the culture and time frame they belong in. <!--more--> For example, think about radio:
 
 When radio was as nuanced as social media is today people came to an understanding of the world in terms of radio and audio as a whole: We are in the same wavelength, are we in tune? Do you copy that? Loud and clear!
 
