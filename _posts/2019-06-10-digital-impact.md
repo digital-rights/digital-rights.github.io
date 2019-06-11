@@ -1,6 +1,7 @@
 ---
 title: How Digital Technologies Reflect Who We Are.
-tags: "Social impact"
+tags:
+	- Social impact
 author: Alex
 ---
 
