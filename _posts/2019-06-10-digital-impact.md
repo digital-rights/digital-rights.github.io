@@ -1,7 +1,5 @@
 ---
 title: How Digital Technologies Reflect Who We Are.
-tags:
-	- Social impact
 author: Alex
 mode: immersive
 header:
@@ -9,11 +7,17 @@ header:
 article_header:
   type: overlay
   theme: dark
+  background_color: '#203028'
   background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://i.imgur.com/bHkwHjy.jpg
+tags:
+	- Social impact
 ---
 
-ABC
+
+
+
 
 The predominant forms of media speaks about the culture and time frame they belong in. For example, think about radio:
 
