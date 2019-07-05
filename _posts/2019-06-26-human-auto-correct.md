@@ -9,14 +9,14 @@ article_header:
   theme: dark
   background_color: '#203028'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    gradient: 'linear-gradient(135deg, rgba(41, 50, 46, 0.87), rgba(30, 16, 30, 0.4))'
     src: https://i.imgur.com/JcpXHbY.jpg
 tags: [Social impact]
 author: Alex
 toc: false
 ---
 
-Modern tech has various ways to correct user error or improve some given outcome: Grammar autocorrect, photo filters, watch-next recommendation systems, snap to grid, file compression and viral media. But from experience we know that the technologies’ idea of what’s right or wrong with what you typed isn’t always aligned with what you tried to say.
+Modern tech has various ways to correct user error or improve some given outcome<!--more-->: Grammar autocorrect, photo filters, watch-next recommendation systems, snap to grid, file compression and viral media. But from experience we know that the technologies’ idea of what’s right or wrong with what you typed isn’t always aligned with what you tried to say.
 
 The introduction of market competition on digital platforms, disguised as the attention economy, is the main pushback against humane values. Our agency — the free will that makes us human — is often treated by out technologies as a corner to cut, an error to correct, an outcome to optimize and it will ultimately rob us of what makes us different from unconscious machines.
 
