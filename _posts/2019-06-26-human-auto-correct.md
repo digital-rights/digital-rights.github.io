@@ -67,3 +67,7 @@ We’re human, let’s act like it.
 Reference used:
 
 Read, M. (2018). How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually. USA: New York Magazine, The inteligencer. Gathered from: https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html
+
+image used:
+
+Lance Roggendorff 2013, Flickr, CC BY 2.0.
