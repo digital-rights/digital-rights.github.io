@@ -74,4 +74,4 @@ References used:
 
 Image used:
 
-Image by [vectorlyme](https://www.flickr.com/photos/19799760@N00), licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich).
+"[World of Warcraft Addict Series 3/9](https://www.flickr.com/photos/vectorlyme/1215939897/in/photolist-C8g2TK-5a2taa-5a2qpn-5a6FtY-5a6ASC-5a6CGf-5a6J89-5a2prZ-fVRCwT-p5PYw-2Rs1yZ-2RrYzp-82Wqd4-9ppbAj-ir8mv-9bnZTa-71h8Dw-c7Qt1C-5BAGMe-6MvPoU-7yYrma-f1Zu7Z-7uPEf8-68uUXP-aqJVii-25aPprF-71h8mL-64rcvh-6yeZyF-49uQ8w-BXsBY-4pyvbj-Mj5My-eQJezG-dzfqk2-rh7Xgj-dzkUUd-6MNb8g-Ksuwnm-4fjTnH-38a7xz-4DdpE9-7JUwnA-8XZRfN-7GMHEB-7ZrVQ-s4JT3R-PawxC-8yLqPh-e6zmU/)" by [vectorlyme](https://www.flickr.com/photos/19799760@N00), licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich).
