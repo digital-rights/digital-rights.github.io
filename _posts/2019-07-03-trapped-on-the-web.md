@@ -48,9 +48,9 @@ Digital media and technologies are based on highly humane values like connection
 
 The father of the Internet itself Tim Berners-Lee has publicly stated his humanitarian goals:
 
-“The web is more a social creation than a technical one. I designed it for a social effect — to help people work together — and not as a technical toy.”
-
-(Berners-Lee, T. 1999)
+> “The web is more a social creation than a technical one. I designed it for a social effect — to help people work together — and not as a technical toy.”
+> 
+> (Berners-Lee, T. 1999)
 
 To the visionaries that built our digital landscape technology was simply a tool and not the solution itself. Steve Jobs has famously described computers as “a bicycle of the mind” (Jobs S. 1990), the destination of this bicycle can be steered with a simple turn of the handlebars.
 
