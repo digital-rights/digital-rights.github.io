@@ -11,7 +11,7 @@ article_header:
   background_image: false
 ---
 
-
+<a rel="me" href="https://mastodon.social/@digitalrights"></a>
 
 
 # Usernames are people too
