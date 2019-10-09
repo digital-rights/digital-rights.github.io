@@ -34,7 +34,9 @@ author:
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   telegram  : digitalrightsonline # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   instagram : digitalrights_
-  
+  mastodon  : digitalrights
+  pixelfed  : digitalrights
+  youtube   : UC75Oprp2NYpFg0_S_g_lqBQ
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
