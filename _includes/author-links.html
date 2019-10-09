@@ -107,8 +107,8 @@
 	
 
     {%- if _author.youtube -%}
-      <li title="{{ __return | replace: '[NAME]', 'youtube' }}">
-        <a class="button button--circle youtube-button" itemprop="sameAs" href="https://www.youtube.com/channel//{{ _author.youtube }}" target="_blank">
+      <li title="{{ __return | replace: '[NAME]', 'YouTube' }}">
+        <a class="button button--circle youtube-button" itemprop="sameAs" href="https://www.youtube.com/channel/{{ _author.youtube }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/telegram.svg -%}</div>
         </a>
       </li>
