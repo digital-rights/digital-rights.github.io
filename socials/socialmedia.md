@@ -24,6 +24,21 @@ redirect_from:
 - /social-media-profile.html
 ---
 
+Our goal is to change tech for the better, we believe in being were and when it's necessary. Therefore you can find our work on various forms of social media platforms:
+
+# Your usual places
+
+
+<a class="button button--outline-success button--pill button--xl" href="https://twitter.com/_digitalrights/">Twitter</a>
+
+<a class="button button--outline-success button--pill button--xl" href="https://www.instagram.com/digitalrights_/">Instagram</a>
+
+<a class="button button--outline-success button--pill button--xl" href="https://www.youtube.com/channel/UC75Oprp2NYpFg0_S_g_lqBQ/">YouTube</a>
+
+<a class="button button--outline-success button--pill button--xl" href="https://www.facebook.com/digitalrightsonline/">Facebook</a>
+
+
+
 We're on:
 
 * Facebook
