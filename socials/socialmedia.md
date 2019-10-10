@@ -45,3 +45,10 @@ We try to advocate for digital rights with words and by example. Other online pa
 Reach out with us quickly, our preferred methods are Twitter, Mastodon and good old e-mail.
 
 <a class="button button--outline-success button--pill button--xl" href="mailto:digital-rights-info@protonmail.com">Send us an E-mail</a> <a class="button button--outline-success button--pill button--xl" href="https://twitter.com/_digitalrights/">Tweet at us</a> <a class="button button--outline-success button--pill button--xl" href="https://mastodon.social/@digitalrights/">Tag us on Mastodon</a>
+
+
+
+
+### Image credit
+
+<p style="font-size: 0.9rem;font-style: italic;"><a href="https://www.behance.net/gallery/14803035/Internet-Marketing-Brochures">"Internet Marketing Brochures"</a><span> by <span>Tibor Kozjak</span></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC 4.0</a><a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;opacity: .7;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>  
