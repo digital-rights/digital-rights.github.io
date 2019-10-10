@@ -11,7 +11,6 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(41, 50, 46, 0.87), rgba(30, 16, 30, 0.4))'
     src: https://farm8.staticflickr.com/7301/26682691294_385a8a19c4_b.jpg
-author: Alex
 toc: false
 redirect_from:
 - /social.html
@@ -34,3 +33,18 @@ We're on:
 * Pixelfed
 * Medium
 * YouTube
+
+# Twitter
+
+Follow us on 
+
+
+<a href="https://mastodon.social/@digitalrights">
+  <div class="card card--clickable">
+    <div class="card__image">
+      <img class="image" src="https://source.joinmastodon.org/uploads/-/system/group/avatar/3/mastodon_logo.png"/>
+    </div>
+  </div>
+</a>
+
+
