@@ -35,39 +35,13 @@ Share our message on everyday platforms with everyday people. We're mostly activ
 
 # Cooler places
 
-<a class="button button--outline-success button--pill button--xl" href="https://mastodon.social/@digitalrights/">Mastodon</a>
-
-<a class="button button--outline-success button--pill button--xl" href="https://pixelfed.social/digitalrights/">Pixelfed</a>
-
-<a class="button button--outline-success button--pill button--xl" href="https://medium.com/digital-rights">Medium</a>
-
-<a class="button button--outline-success button--pill button--xl" href="https://t.me/digitalrightsonline/">Telegram</a>
-
-<a class="button button--outline-success button--pill button--xl" href="https://github.com/digital-rights/">GitHub</a>
+<a class="button button--outline-success button--pill button--xl" href="https://mastodon.social/@digitalrights/">Mastodon</a> <a class="button button--outline-success button--pill button--xl" href="https://pixelfed.social/digitalrights/">Pixelfed</a> <a class="button button--outline-success button--pill button--xl" href="https://medium.com/digital-rights">Medium</a> <a class="button button--outline-success button--pill button--xl" href="https://t.me/digitalrightsonline/">Telegram</a> <a class="button button--outline-success button--pill button--xl" href="https://github.com/digital-rights/">GitHub</a>
 
 
-We try to advocate for digital rights with words and by example. Other online paces do a better job to empower users, we want to be a part of that movement. 
+We try to advocate for digital rights with words and by example. Other online paces do a better job to empower users, we want to be a part of that movement. Find short written posts on Mastodon, pictures and images on Pixelfed, our articles on Medium, a Newsletter on telegram and our code on GitHub.
 
-Follow us on 
+# Get in touch
 
+Reach out with us quickly, our preferred methods are Twitter, Mastodon and good old e-mail.
 
-<a href="https://mastodon.social/@digitalrights">
-  <div class="card card--clickable">
-    <div class="card__image">
-      <img class="image" src="https://source.joinmastodon.org/uploads/-/system/group/avatar/3/mastodon_logo.png"/>
-    </div>
-  </div> </a>
-
-<a href="https://mastodon.social/@digitalrights">abc</a>
-
-<div>
-  <div class="card card--clickable">
-    <div class="card__image">
-      <img class="image" src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg"/>
-    </div>
-  </div>
-</div>
-
-<a href="https://mastodon.social/@digitalrights">
-<div><div class="card card--clickable"><div class="card__image"><img class="image" src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg"/></div></div></div>
-</a>
+<a class="button button--outline-success button--pill button--xl" href="mailto:digital-rights-info@protonmail.com">Send us an E-mail</a> <a class="button button--outline-success button--pill button--xl" href="https://twitter.com/_digitalrights/">Tweet at us</a> <a class="button button--outline-success button--pill button--xl" href="https://mastodon.social/@digitalrights/">Tag us on Mastodon</a>
