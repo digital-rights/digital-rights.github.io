@@ -46,4 +46,16 @@ Follow us on
     </div>
   </div> </a>
 
+<a href="https://mastodon.social/@digitalrights">abc</a>
 
+<div>
+  <div class="card card--clickable">
+    <div class="card__image">
+      <img class="image" src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg"/>
+    </div>
+  </div>
+</div>
+
+<a href="https://mastodon.social/@digitalrights">
+<div><div class="card card--clickable"><div class="card__image"><img class="image" src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg"/></div></div></div>
+</a>
