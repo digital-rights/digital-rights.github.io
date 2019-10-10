@@ -29,6 +29,24 @@
       .npm-button {
         @include clickable($text-color-1, $npm-color);
       }
+      .youtube-button {
+        @include clickable($text-color-1, $youtube-color);
+      }
+      .pixelfed-button {
+        @include clickable($text-color-1, $pixelfed-color);
+      }
+      .mastodon-button {
+        @include clickable($text-color-1, $mastodon-color);
+      }
+      .mastodon-button {
+        @include clickable($text-color-1, $mastodon-color);
+      }
+      .instagram-button {
+        @include clickable($text-color-1, $instagram-color);
+      }
+      .medium-button {
+        @include clickable($text-color-1, $medium-color);
+      }
       .telegram-button {
         @include clickable($text-color-1, $telegram-color);
       }
