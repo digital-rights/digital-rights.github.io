@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(41, 50, 46, 0.87), rgba(30, 16, 30, 0.4))'
-    src: https://mir-s3-cdn-cf.behance.net/project_modules/fs/11676e67040173.5b2b898111717.jpg
+    src: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/99be5514803035.56c4effdb2315.jpg
 toc: false
 redirect_from:
 - /social.html
