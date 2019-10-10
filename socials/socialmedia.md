@@ -44,7 +44,6 @@ Follow us on
     <div class="card__image">
       <img class="image" src="https://source.joinmastodon.org/uploads/-/system/group/avatar/3/mastodon_logo.png"/>
     </div>
-  </div>
-</a>
+  </div> </a>
 
 
