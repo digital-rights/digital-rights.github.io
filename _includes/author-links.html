@@ -84,7 +84,7 @@
     {%- if _author.instagram -%}
       <li title="{{ __return | replace: '[NAME]', 'Instagram' }}">
         <a class="button button--circle instragam-button" itemprop="sameAs" href="https://www.instagram.com/{{ _author.instagram }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/telegram.svg -%}</div>
+          <div class="icon">{%- include svg/icon/social/instagram.svg -%}</div>
         </a>
       </li>
     {%- endif -%}
@@ -92,7 +92,7 @@
     {%- if _author.mastodon -%}
       <li title="{{ __return | replace: '[NAME]', 'Mastodon' }}">
         <a class="button button--circle mastodon-button" itemprop="sameAs" href="https://mastodon.social/@{{ _author.mastodon }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/telegram.svg -%}</div>
+          <div class="icon">{%- include svg/icon/social/mastodon.svg -%}</div>
         </a>
       </li>
     {%- endif -%}
@@ -109,7 +109,7 @@
     {%- if _author.youtube -%}
       <li title="{{ __return | replace: '[NAME]', 'YouTube' }}">
         <a class="button button--circle youtube-button" itemprop="sameAs" href="https://www.youtube.com/channel/{{ _author.youtube }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/telegram.svg -%}</div>
+          <div class="icon">{%- include svg/icon/social/youtube.svg -%}</div>
         </a>
       </li>
     {%- endif -%}
