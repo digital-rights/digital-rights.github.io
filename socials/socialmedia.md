@@ -29,27 +29,24 @@ Our goal is to change tech for the better, we believe in being were and when it'
 # Your usual places
 
 
-<a class="button button--outline-success button--pill button--xl" href="https://twitter.com/_digitalrights/">Twitter</a>
+<a class="button button--outline-success button--pill button--xl" href="https://twitter.com/_digitalrights/">Twitter</a> <a class="button button--outline-success button--pill button--xl" href="https://www.instagram.com/digitalrights_/">Instagram</a> <a class="button button--outline-success button--pill button--xl" href="https://www.youtube.com/channel/UC75Oprp2NYpFg0_S_g_lqBQ/">YouTube</a> <a class="button button--outline-success button--pill button--xl" href="https://www.facebook.com/digitalrightsonline/">Facebook</a>
 
-<a class="button button--outline-success button--pill button--xl" href="https://www.instagram.com/digitalrights_/">Instagram</a>
+Share our message on everyday platforms with everyday people. We're mostly active on Twitter and Instagram, there you will find updates, our articles summarized and tech news related to digital rights.
 
-<a class="button button--outline-success button--pill button--xl" href="https://www.youtube.com/channel/UC75Oprp2NYpFg0_S_g_lqBQ/">YouTube</a>
+# Cooler places
 
-<a class="button button--outline-success button--pill button--xl" href="https://www.facebook.com/digitalrightsonline/">Facebook</a>
+<a class="button button--outline-success button--pill button--xl" href="https://mastodon.social/@digitalrights/">Mastodon</a>
+
+<a class="button button--outline-success button--pill button--xl" href="https://pixelfed.social/digitalrights/">Pixelfed</a>
+
+<a class="button button--outline-success button--pill button--xl" href="https://medium.com/digital-rights">Medium</a>
+
+<a class="button button--outline-success button--pill button--xl" href="https://t.me/digitalrightsonline/">Telegram</a>
+
+<a class="button button--outline-success button--pill button--xl" href="https://github.com/digital-rights/">GitHub</a>
 
 
-
-We're on:
-
-* Facebook
-* Twitter
-* Instagram
-* Mastodon
-* Pixelfed
-* Medium
-* YouTube
-
-# Twitter
+We try to advocate for digital rights with words and by example. Other online paces do a better job to empower users, we want to be a part of that movement. 
 
 Follow us on 
 
