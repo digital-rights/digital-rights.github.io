@@ -1,6 +1,7 @@
 ---
 redirect_from:
 - /telegram.html
+- /tg.html
 ---
 
 <meta http-equiv="refresh" content="0; URL='https://t.me/digitalrightsonline'" />
