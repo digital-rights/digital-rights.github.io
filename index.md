@@ -18,11 +18,11 @@ article_header:
 
 **Do human rights apply on the Internet? We believe so!**
  
-People behind a screen also have inherent rights, we aim to spread awareness and speak up against human rights abuse in the digital age, an injustice is an injustice, no mater the medium.
+People behind a screen also have inherent rights, we aim to spread awareness and speak up against human rights abuses in the digital age, an injustice is an injustice, no mater the medium.
 
 ## Issues
 
-Today's society has made gigantic leaps thanks to technology, but without realizing we also created a monster: We divide our social world thanks to social media bubbles, created monopolies that shape a lifestyle that will further pollute and contaminate our planet, made a generation of screen addicts, killed personal privacy and we even toy with democracy and truth itself.
+Today's society has made gigantic leaps thanks to technology, but without realizing we also created a monster: We divide our social world thanks to social media bubbles, created monopolies that shape a lifestyle that will further pollute and contaminate our planet, made a generation of screen addicts, ended personal privacy and we even toy with democracy and truth itself.
 
 The technology that we created is changing the world, and we must ask if this new world is a desirable one, we mustn't give up tech or start a witch hunt, but rather we need to develop a scene of ethics for the digital.
 
