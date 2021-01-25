@@ -16,7 +16,7 @@ author: Alex
 toc: false
 ---
 
-To be or not to be the product, docent matter...
+To be or not to be the product, doesn't matter...
 
 <!--more-->
 
