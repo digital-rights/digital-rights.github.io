@@ -10,15 +10,17 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(41, 50, 46, 0.87), rgba(30, 16, 30, 0.4))'
-    src: https://i.imgur.com/N92gkKj.jpg
+    src: https://images.pexels.com/photos/3184435/pexels-photo-3184435.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
 tags: [Social impact, Economics]
 author: Alex
 toc: false
 ---
 
+To be or not to be the product, docent matter...
 
+<!--more-->
 
-"If you're not paying for a product, then you are the product" is a popular phrase used to describe how social platforms work, but it is mostly missing the point. <!--more-->
+"If you're not paying for a product, then you are the product" is a popular phrase used to describe how social platforms work, but it is mostly missing the point. 
 
 Let's look at a regular business: Normally you'd have a business that offers a product or service to customers. The product or service is made by some kind of work, car makers build their parts with robotic arms and restaurants sell meals cooked by people. Both the automated car factory and the chef use work (in the abstract) to create their product. Generally the work is done by the workforce, the employees are paid by the boss, who owns the business. Now back to tech.
 
